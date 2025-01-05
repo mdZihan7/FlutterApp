@@ -1,5 +1,5 @@
 ## Description
-A2SV 2023 project phase Mobile Team,This repository serves as a central hub for tracking the progress of my app development tasks.
+A central hub for tracking the progress of app development.
 
 ## Screenshot Demo
 
